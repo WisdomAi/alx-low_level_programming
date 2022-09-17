@@ -1,4 +1,3 @@
-#include "main.h"
 
 /**
  * print_sigm - return 0 letter not lowercase, 1 letter lowercase
