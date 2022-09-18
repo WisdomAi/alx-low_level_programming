@@ -1,6 +1,6 @@
 #include "main.h"
 
-"include <stdio.h>
+#include <stdio.h>
 
 /**
  * _abs - value absolute
@@ -8,10 +8,10 @@
  * Return: Always 0.
  */
 
-int _abs(int n)
+int  _abs(int  n)
 
 {
-	if (n < 0)
+	if(n<0)
 	{
 		return (n * (-1));
 	}
