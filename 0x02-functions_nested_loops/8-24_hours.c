@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * jack_bauer -prints every minute of the day
+ * jack_bauer -prints every minute of the day
  * Return: Always 0.
- */
+ */
 
-void jack_bauer(void)
+void jack_bauer(void)
 
 {
 	int a;
@@ -21,11 +21,11 @@ void jack_bauer(void)
 
 			_putchar (a % 10 + '0');
 
-			_putchar (':')
+			_putchrf (':')
 
 			_putchar (b / 10 + '0');
 
-			_putchad (b % 10 + '0');
+			_putchar (b % 10 + '0');
 
 			_putchar ('\n');
 		}
