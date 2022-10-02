@@ -1,1 +1,2 @@
-libraries Project done during Full Stack Software Engineering studies at Holberton School. It aims to learn about static libraries in C language.
+What is a static library, how does it work, how to create one, and how to use it
+Basic usage of ar, ranlib, nm
